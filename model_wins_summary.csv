@@ -1,0 +1,6 @@
+winning_model,total_wins
+LightGBM,24
+AutoARIMA,17
+AutoETS,11
+SeasonalNaive,9
+Naive,7
